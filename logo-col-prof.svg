@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
@@ -74,9 +75,19 @@
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
+  <path
+     sodipodi:type="arc"
+     style="opacity:0.93469387999999998;fill:none;fill-opacity:1;stroke:none"
+     id="path3845"
+     sodipodi:cx="-449.10004"
+     sodipodi:cy="935.07922"
+     sodipodi:rx="594.47345"
+     sodipodi:ry="589.28156"
+     d="m 145.37341,935.07922 a 594.47345,589.28156 0 1 1 -1188.94691,0 594.47345,589.28156 0 1 1 1188.94691,0 z"
+     transform="matrix(0.8930131,0,0,0.93171806,-111.64869,-51.670929)" />
   <g
      id="g3788"
-     transform="translate(-721.80009,619.43858)">
+     transform="translate(669.6312,663.5698)">
     <path
        style="fill:#fbfcfc"
        d="m -182.77617,98.8692 0,-461.5 359,0 359,0 0,461.5 0,461.5 -359,0 -359,0 0,-461.5 z"
@@ -118,23 +129,59 @@
        id="path3790"
        inkscape:connector-curvature="0" />
   </g>
+  <text
+     xml:space="preserve"
+     style="font-size:143.35987854px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri Bold"
+     id="text3830"
+     sodipodi:linespacing="125%"
+     transform="matrix(-0.89550427,-0.44505292,0.44505292,-0.89550427,-1912.8837,867.51034)"
+     inkscape:export-filename="C:\Users\dampyre\Documents\GitHub\logo-col-prof\desgloce\comunal caldera.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><textPath
+       xlink:href="#path3845"
+       id="textPath3847"><tspan
+   id="tspan3832">COMUNAL CALDERA</tspan></textPath></text>
+  <text
+     xml:space="preserve"
+     style="font-size:137.63401794px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri Bold"
+     id="text3834"
+     sodipodi:linespacing="125%"
+     y="1176.4191"
+     x="-1320.5259"
+     transform="scale(0.84441173,1.1842564)"
+     inkscape:export-filename="C:\Users\dampyre\Documents\GitHub\logo-col-prof\desgloce\colegio profesores.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
+       sodipodi:role="line"
+       id="tspan3836"
+       x="-1320.5259"
+       y="1176.4191">COLEGIO DE PROFESORES</tspan></text>
   <path
-     style="fill:#0c0c0c;fill-opacity:1;stroke:none;opacity:0.93469388"
+     style="opacity:0.93469388;fill:#0c0c0c;fill-opacity:1;stroke:none"
      d="m -661.25,442.6875 0,413.65625 221.15625,0 0,-0.40625 c 114.18422,-3.51027 205.65625,-94.22784 205.65625,-205.65625 0,-111.42841 -91.47203,-202.17723 -205.65625,-205.6875 l 0,-1.90625 -221.15625,0 z"
      id="path3808"
      clip-path="url(#clipPath3815)"
      inkscape:connector-curvature="0"
-     transform="translate(-975.18392,-163.57494)" />
+     transform="translate(68.837658,-35.405556)"
+     inkscape:export-filename="C:\Users\dampyre\Documents\GitHub\logo-col-prof\logo letras.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <rect
-     style="opacity:0.81632654999999998;fill:#0f0d0d;fill-opacity:1;stroke:none"
+     style="opacity:0.81632655;fill:#0f0d0d;fill-opacity:1;stroke:none"
      id="rect3828"
      width="376.46359"
      height="830.14648"
-     x="-1857.6564"
-     y="265.79617" />
+     x="-1408.1082"
+     y="313.49097"
+     inkscape:export-filename="C:\Users\dampyre\Documents\GitHub\logo-col-prof\logo 1.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
   <path
      style="opacity:0.93469388;fill:#0c0c0c;fill-opacity:1;stroke:none"
-     d="m -1691.1005,710.92365 c -93.7094,0.45347 -166.0661,89.19023 -167.0625,192.93745 -0.9588,99.8318 62.3306,180.1003 151.2187,191.0626 l 0,0.062 0.375,0 c 11.1185,1.3468 22.6278,1.6061 34.4688,0.6876 2.4068,-0.1868 4.8024,-0.4241 7.1875,-0.6876 l 186.4062,0 0,-88.125 -144.3125,0 c -1.8465,0.1422 -3.6992,0.2742 -5.5625,0.375 -9.1669,0.4956 -18.0799,0.3516 -26.6875,-0.375 l -0.2812,0 0,-0.031 c -76.6655,1.916 -113.6782,-44.8876 -117.0625,-103.0938 -3.4906,-60.0349 47.0399,-110.85652 129.3125,-104.12492 4.8365,-0.016 9.7467,0.2062 14.7187,0.625 0.7177,0.06 1.4409,0.1216 2.1563,0.1875 l 147.7187,0 0,-88.03128 -190.8125,0 c -0.924,-0.12211 -1.8541,-0.23172 -2.7812,-0.34375 -6.4224,-0.77613 -12.7527,-1.15523 -19,-1.125 z"
+     d="m -647.07892,839.09304 c -93.7094,0.45347 -166.0661,89.19023 -167.0625,192.93746 -0.9588,99.8318 62.3306,180.1003 151.2187,191.0626 l 0,0.062 0.375,0 c 11.1185,1.3468 22.6278,1.6061 34.4688,0.6876 2.4068,-0.1868 4.8024,-0.4241 7.1875,-0.6876 l 186.4062,0 0,-88.125 -144.3125,0 c -1.8465,0.1422 -3.6992,0.2742 -5.5625,0.375 -9.1669,0.4956 -18.0799,0.3516 -26.6875,-0.375 l -0.2812,0 0,-0.031 c -76.6655,1.916 -113.6782,-44.8876 -117.0625,-103.0938 -3.4906,-60.03491 47.0399,-110.85653 129.3125,-104.12493 4.8365,-0.016 9.7467,0.2062 14.7187,0.625 0.7177,0.06 1.4409,0.1216 2.1563,0.1875 l 147.7187,0 0,-88.03128 -190.8125,0 c -0.924,-0.12211 -1.8541,-0.23172 -2.7812,-0.34375 -6.4224,-0.77613 -12.7527,-1.15523 -19,-1.125 z"
      id="path3819"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="C:\Users\dampyre\Documents\GitHub\logo-col-prof\logo letras.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
 </svg>
