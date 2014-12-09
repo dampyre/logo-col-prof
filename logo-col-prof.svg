@@ -15,7 +15,7 @@
    inkscape:version="0.48.4 r9939"
    width="363"
    height="216"
-   sodipodi:docname="logojarro.jpg">
+   sodipodi:docname="logo-col-prof.svg">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -68,9 +68,9 @@
      inkscape:window-height="987"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.67009568"
-     inkscape:cx="-64.168379"
-     inkscape:cy="-744.59641"
+     inkscape:zoom="0.4227733"
+     inkscape:cx="-1317.8747"
+     inkscape:cy="-948.24641"
      inkscape:window-x="1358"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -965,5 +965,17 @@ iigAooooAKKKKACiiigAooooAKKKKACiiigD/9k=
      id="path3808"
      clip-path="url(#clipPath3815)"
      inkscape:connector-curvature="0"
-     transform="translate(196.98679,28.354161)" />
+     transform="translate(0.2987893,-0.0298477)" />
+  <path
+     style="opacity:0.39591836;fill:#0094da;fill-opacity:1;stroke:none"
+     d="m -717.61774,874.46875 c -93.7094,0.45347 -166.0661,89.19023 -167.0625,192.93745 -0.9588,99.8318 62.3306,180.1003 151.2187,191.0626 l 0,0.062 0.375,0 c 11.1185,1.3468 22.6278,1.6061 34.4688,0.6876 2.4068,-0.1868 4.8024,-0.4241 7.1875,-0.6876 l 186.4062,0 0,-88.125 -144.3125,0 c -1.8465,0.1422 -3.6992,0.2742 -5.5625,0.375 -9.1669,0.4956 -18.0799,0.3516 -26.6875,-0.375 l -0.2812,0 0,-0.031 c -76.6655,1.916 -113.6782,-44.8876 -117.0625,-103.0938 -3.4906,-60.0349 47.0399,-110.85652 129.3125,-104.12492 4.8365,-0.016 9.7467,0.2062 14.7187,0.625 0.7177,0.06 1.4409,0.1216 2.1563,0.1875 l 147.7187,0 0,-88.03128 -190.8125,0 c -0.924,-0.12211 -1.8541,-0.23172 -2.7812,-0.34375 -6.4224,-0.77613 -12.7527,-1.15523 -19,-1.125 z"
+     id="path3819"
+     inkscape:connector-curvature="0" />
+  <rect
+     style="opacity:0.39591836;fill:#da0019;fill-opacity:1;stroke:none"
+     id="rect3828"
+     width="385.54941"
+     height="844.42419"
+     x="-889.36554"
+     y="424.14938" />
 </svg>
